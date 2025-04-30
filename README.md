@@ -14,5 +14,13 @@ La calculadora logra hacer estas operaciones con dos valores, que solicita la in
 La calculadora esta hecha desde JavaScript con el archivo calculadora.js. JavaScript nos permite que la calculadora haga las operaciones matematicas y usa HTML en la parte visual con un  archivo vista.html para que el usuario visualmente vea la calculadora y pueda hacer las operaciones matematicas.
 
 ### Como Ejecutar El Proyecto
-Lo primero es que el usuario tenga con sigo mismo el archivo vista.html para poder ejecutar la calculadora, esto lo logra dando click derecho y ubicado en Open Whit Live Server 
+Lo primero es que el usuario tenga con sigo mismo el archivo vista.html para poder ejecutar la calculadora, esto lo logra dando clik derecho y ubicado en Open Whit Live Server y das clik y te aparece la calculadora.
+
 ### Autores Y Creditos 
+Profesores:
+Valentina Leguizamon 
+Ana Galarza 
+Sebastian Martinez 
+
+Estudiante: 
+Johan Ramirez 
