@@ -11,16 +11,18 @@ Es una calculadora capas de hacer las siguientes operaciones: suma, resta, multi
 La calculadora logra hacer estas operaciones con dos valores, que solicita la interfas visual y el usuario dispone en los imput correspondientes.
 
 ### Estructura Del Proyecto
-La calculadora esta hecha desde JavaScript con el archivo calculadora.js. JavaScript nos permite que la calculadora haga las operaciones matematicas y usa HTML en la parte visual con un  archivo vista.html para que el usuario visualmente vea la calculadora y pueda hacer las operaciones matematicas.
+* ``calculadora.js`` La calculadora esta hecha desde JavaScript con el archivo calculadora.js. JavaScript nos permite que la calculadora haga las operaciones  
+* ``vista.html`` Usa HTML en la parte visual con un  archivo vista.html para que el usuario visualmente vea la calculadora y pueda hacer las operaciones matematicas.   
 
 ### Como Ejecutar El Proyecto
-Lo primero es que el usuario tenga con sigo mismo el archivo vista.html para poder ejecutar la calculadora, esto lo logra dando clik derecho y ubicado en Open Whit Live Server y das clik y te aparece la calculadora.
+Lo primero es que el usuario tenga con sigo mismo el archivo vista.html para poder ejecutar la calculadora, esto lo logra dando clik derecho y ubicado en *Open Whit Live Server* y das clik y aparece la calculadora.
 
-### Autores Y Creditos 
-Profesores:
-Valentina Leguizamon 
-Ana Galarza 
-Sebastian Martinez 
+### Como probarlo 
+Abre el archivo vista.html con Live Server. Ingresa dos números en los campos visibles, se elige la operación: *sumar, restar, multiplicación, división* y haz clic en el botón que correponde para ver el resultado 
 
-Estudiante: 
-Johan Ramirez 
+### Autores
+Autor desarrollo: Ana Galarza 
+Colaborador documentacion: Valentina Leguizamon 
+Colaborador desarrollo: Sebastian Martinez 
+
+Autor documentacion: Johan Ramirez 
